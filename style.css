@@ -1,0 +1,68 @@
+h1:hover {
+    text-shadow: orange -3px 0,
+                 yellow  3px 0;         
+}
+
+body {
+    background-color: rgba(151, 132, 163, 0.628);
+    
+}
+
+.fancy {
+    color: aliceblue;
+}
+
+
+.lemon {
+    text-align: center;
+}
+
+.lemon:hover {
+background-color:rgb(244, 191, 217);
+padding: .25em;
+border-radius: .50em;
+}
+
+.sprite {
+    text-align: center;
+}
+
+.ball {
+    text-align: center;
+}
+
+.straight {
+    text-align: center;
+}
+
+.green {
+    text-align: center;
+}
+
+.gnom {
+    text-align: center;
+}
+
+.grom {
+    text-align: center;
+}
+
+.light {
+    text-align: center;
+}
+
+.light:hover {
+    background-color: cadetblue;
+    padding: .25em;
+    border-radius: .50em;
+}
+
+.top {
+    text-align: center;
+}
+
+.top:hover {
+    background-color:cornflowerblue;
+    padding: .25em;
+    border-radius: .50em;
+}
